@@ -1,1 +1,1 @@
- git fetch ,   git rebase master 
+git pull upstream master 
